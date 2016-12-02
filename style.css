@@ -59,6 +59,7 @@ footer {
     text-shadow: 3px 3px 4px  #FBE7D4;
     background-image: url(images/veggies-background.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
     
 }
 
